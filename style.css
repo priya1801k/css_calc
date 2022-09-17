@@ -1,0 +1,19 @@
+button{
+    height:50px;
+    width:50px;
+    background-color: lightgreen;
+    font-size: 23px;
+    border-radius: 10px;
+}
+input{
+    margin-bottom:2px; ;
+    height:30px;
+    width:206px;
+}
+.clr{
+    width:212px;
+    height:50px;
+}
+button:hover{
+    cursor: pointer;
+}
